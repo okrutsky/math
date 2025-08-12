@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 /*
  * Training class for learning Vectors and Math.
  * 
@@ -35,4 +34,5 @@ public class VectorDotProduct {
 	}
 
 }
+
 
