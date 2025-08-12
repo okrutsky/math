@@ -1,6 +1,3 @@
-package math;
-import java.util.Scanner;
-
 public class Factorial {
 	
 	public int factorial(int n) {
@@ -18,3 +15,4 @@ public class Factorial {
 		System.out.println("Factorial of " + i + "is " + f.factorial(i)); // calling a method and calculating		
 	}
 }
+
