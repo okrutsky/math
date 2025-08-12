@@ -1,7 +1,3 @@
-package Algorithms;
-
-import java.util.Scanner;
-
 public class OddNumber {
 	
 	public static boolean isOdd(int number) {
@@ -23,3 +19,4 @@ public class OddNumber {
 	}
 
 }
+
