@@ -1,5 +1,3 @@
-package math;
-
 public class FunctionMaximizer {
 	
 	public static double f(double x, double a, double b) {
@@ -28,3 +26,4 @@ public class FunctionMaximizer {
 	}
 
 }
+
