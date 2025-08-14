@@ -9,12 +9,12 @@ public class FunctionMaximizer {
 	}
 	
 	public static void main(String[] args) {
-		double a = 2.0;
+		double a = 2.0; // TODO code inputs system.in
 		double b = 3.0;
 		
 		// Critical point
 		
-		double xStar = a / (a+b);
+		double xStar = a / (a+b); // TODO write functions
 		
 		// Maximum value
 		
